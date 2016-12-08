@@ -2,6 +2,10 @@ body {
     font-family: avenir;
     background-color: #c9beaf;
 }
+@font-face {
+    font-family: EnglishTowne;
+    src: url(OTHER/EnglishTowne.ttf);
+}
     .page-wrapper {
         margin: 0 auto;
         max-width: 80%;
